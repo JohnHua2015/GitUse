@@ -51,6 +51,7 @@ import com.bumptech.glide.request.target.SimpleTarget
 
 /**
  * Loads a grid of cards with movies to browse.
+ * just for use git test
  */
 class MainFragment : BrowseFragment() {
 
